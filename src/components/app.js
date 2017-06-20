@@ -4,7 +4,7 @@ import Header from './header'
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <div className = 'app'>
         <div>React simple starter</div>
         <Header />
       </div>
