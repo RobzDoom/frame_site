@@ -2,8 +2,8 @@ body {
     background-color: gray;
 }
 .container {
-    padding-right: .9375rem;
-    padding-left: .9375rem;
+    padding-right: 3.9375rem;
+    padding-left: 3.9375rem;
     margin-right: auto;
     margin-left: auto;
 }
