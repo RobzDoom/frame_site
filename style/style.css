@@ -1,5 +1,6 @@
 body {
     background-color: gray;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .container {
     padding-right: 3.9375rem;
@@ -7,3 +8,12 @@ body {
     margin-right: auto;
     margin-left: auto;
 }
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    padding-right: 10px;
+}
+
