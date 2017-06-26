@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class Header extends Component {
     render (){
         return(
-            <div className='header'>This is the footer ok
+            <div className='header'>
                 <div className = 'container'>
                     <div className= 'title'>
                         <h1><a href="#">Frame Trap</a></h1>

@@ -1,13 +1,14 @@
 body {
-    background-color: gray;
+    /*background-color: gray;
     font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
-    color: white
+    color: white*/
+    width: 100%;
+    margin: auto;
 }
 .container {
     padding-right: 3.9375rem;
     padding-left: 3.9375rem;
-    margin-right: auto;
-    margin-left: auto;
+    margin: 0 auto;
 }
 
 li {
@@ -19,7 +20,22 @@ li {
 }
 
 a{
-    color: white;
     font-family: Helvetica Neue ,Helvetica,Arial,sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
 }
 
+.header{
+    background: skyblue;
+    width: 100%;
+    position: fixed
+}
+.title{
+    float: left;
+    font-size: 15px;
+
+}
+.nav{
+    float: right;
+}
