@@ -6,8 +6,6 @@ body {
     margin: auto;
 }
 .container {
-    padding-right: 3.9375rem;
-    padding-left: 3.9375rem;
     margin: 0 auto;
 }
 
@@ -17,6 +15,9 @@ li {
     padding: 0;
     display: inline;
     padding-right: 10px;
+}
+.nav{
+    padding-right: 15%;
 }
 
 a{
@@ -29,7 +30,10 @@ a{
 .header{
     background: skyblue;
     width: 100%;
-    position: fixed
+    position: fixed;
+    margin-left: 5%;
+    margin-right: 5%
+
 }
 .title{
     float: left;
